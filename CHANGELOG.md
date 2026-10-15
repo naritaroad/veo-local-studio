@@ -42,5 +42,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - 設定與用量仍只寫本機 `data/`；公開說明改為明確寫「不要對公網暴露」。
 
-[Unreleased]: https://github.com/Lrniey666/veo-local-studio/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Lrniey666/veo-local-studio/releases/tag/v1.0.0
+[Unreleased]: https://github.com/naritaroad/veo-local-studio/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/naritaroad/veo-local-studio/releases/tag/v1.0.0
